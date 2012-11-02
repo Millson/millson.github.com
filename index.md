@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 三水志
-tagline: 记录、搜藏、分享
+title: Millson Island
+tagline: Record the coding life
 ---
 {% include JB/setup %}
 
